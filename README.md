@@ -7,10 +7,15 @@ My passion lies in building smart, efficient, clean, and user-friendly solutions
 I enjoy exploring new technologies, solving problems, and constantly sharpening my development skills.
 
 🧩 What I Love Working On
+
 🌐 Full-Stack Web Development
+
 ⚙️ Smart, Real-World Projects
+
 🖥️ Modern UI/UX and clean dashboard designs
+
 🔗 Integrating backend, frontend, and databases smoothly
+
 💡 Learning new tools, languages, and frameworks
 
 🛠️ Tech Stack
@@ -33,14 +38,17 @@ Tools & Others
 ✔️ Git & GitHub
 ✔️ VS Code
 ✔️ Problem Solving • Clean Architecture
-✔️ Prompt Engineering
 
 📌 Featured Interests
 
 🚀 Building smart and scalable apps
+
 🔐 Creating secure systems with real-world use
+
 🎨 Designing modern interfaces
+
 🤖 Exploring AI tools for automation
+
 📚 Learning every day to improve my craft
 
 📬 Connect With Me
