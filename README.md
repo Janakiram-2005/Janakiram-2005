@@ -1,73 +1,66 @@
 👋 Hi, I'm Janakiram
-🚀 Passionate Full-Stack Developer | Smart Project Builder | Tech Explorer
+🚀 Full-Stack Developer | Smart Project Builder | UI/UX Lover
 🌟 About Me
 
-I am a dedicated Full-Stack Developer who loves turning ideas into real, working applications.
-My passion lies in building smart, efficient, clean, and user-friendly solutions that make life easier for people.
-I enjoy exploring new technologies, solving problems, and constantly sharpening my development skills.
+I’m a passionate Full-Stack Developer who loves creating smart, fast, and user-friendly applications.
+I enjoy building real-world projects, exploring new tech, and designing clean, modern interfaces that feel smooth and intuitive.
 
-🧩 What I Love Working On
+I believe in learning daily, writing clean code, and building solutions that actually help people.
 
-🌐 Full-Stack Web Development
-
-⚙️ Smart, Real-World Projects
-
-🖥️ Modern UI/UX and clean dashboard designs
-
-🔗 Integrating backend, frontend, and databases smoothly
-
-💡 Learning new tools, languages, and frameworks
-
-🛠️ Tech Stack
+⚡ Tech Stack & Tools
 Frontend
 
-✔️ HTML • CSS • JavaScript
-✔️ React JS • Responsive UI
+✨ HTML • CSS • JavaScript
+✨ React JS • Responsive Design
 
 Backend
 
-✔️ Python (Flask) • Node.js
-✔️ REST APIs • Authentication Systems
+🛠️ Python (Flask) • Node.js
+🛠️ REST APIs • Authentication
 
 Database
 
-✔️ MySQL
+🗄️ MySQL
 
-Tools & Others
+Tools
 
-✔️ Git & GitHub
-✔️ VS Code
-✔️ Problem Solving • Clean Architecture
+⚙️ Git & GitHub
+⚙️ VS Code
+⚙️ Problem Solving & Clean Architecture
 
-📌 Featured Interests
+🎯 What I’m Passionate About
 
-🚀 Building smart and scalable apps
+Building modern full-stack applications
 
-🔐 Creating secure systems with real-world use
+Creating smart automation projects
 
-🎨 Designing modern interfaces
+Designing clean UI dashboards
 
-🤖 Exploring AI tools for automation
+Working on real-life community-based solutions
 
-📚 Learning every day to improve my craft
+Learning the latest tools & improving my skills every day
 
-📬 Connect With Me
+📂 Current Focus
 
-GitHub: github.com/Janakiram-2005
+🔭 Enhancing my skills in
+✔️ Full-Stack Development
+✔️ Smart Project Architecture
+✔️ Cloud Deployment
+✔️ Modern UI/UX
 
-LinkedIn: linkedin.com/in/janakiram-malli-reddy-gari-a225b232a
+🌐 Connect With Me
 
-Email: msjanakiram2005@gmail.com
+🔗 GitHub: github.com/Janakiram-2005
+🔗 LinkedIn: linkedin.com/in/janakiram-malli-reddy-gari-a225b232a
+📧 Email: msjanakiram2005@gmail.com
 
-Phone: +91 82040 905
+📞 Phone: +91 82040 905
 
-🌱 My Passion
+💡 My Vision
 
-I’m not just coding to finish tasks —
-I code because I love building things that matter.
-Every project I create is a step toward becoming a better engineer,
-and I aim to deliver work that reflects quality, creativity, and dedication.
+To become a developer who builds meaningful, impactful solutions with clean code, creativity, and dedication.
+Every project I create reflects my passion for technology and my drive to become better each day.
 
-⭐ My Goal
+✨ Fun Dev Quote
 
-To grow as a strong full-stack engineer, build impactful digital products, and contribute to the tech community with meaningful work.
+"Code with passion. Build with purpose. Grow with consistency."
