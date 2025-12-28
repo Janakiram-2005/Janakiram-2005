@@ -13,7 +13,7 @@ Frontend: HTML, CSS, JavaScript, React
 
 Backend: Flask, Node.js, REST APIs
 
-Database: MySQL
+Database: MySQL,MongoDB
 
 Tools: Git, VS Code
 
