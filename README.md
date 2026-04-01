@@ -24,12 +24,5 @@ Tools: Git, VS Code
 
 Full-stack app architecture, modern UI/UX, and cloud deployment.
 
-🌐 Connect
-
-GitHub: github.com/Janakiram-2005
-
-LinkedIn: janakiram-malli-reddy-gari-a225b232a
-
-Email: msjanakiram2005@gmail.com
 
 Phone: +91 82040905
