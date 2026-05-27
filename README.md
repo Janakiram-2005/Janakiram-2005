@@ -6,7 +6,7 @@
 
 Passionate about creating efficient, scalable, and user-centric applications with clean code and modern design principles.
 
-[Portfolio](#) • [LinkedIn](#) • [Email](mailto:your-email@example.com)
+ [LinkedIn](https://www.linkedin.com/in/janakiram-malli-reddy-gari/) • [Email](mailto:msjanakiram2005.com)
 
 </div>
 
@@ -61,9 +61,9 @@ I'm a dedicated full-stack developer with a passion for building intelligent, ef
 
 I'm always interested in collaborating on exciting projects, sharing ideas, and learning from the community. Feel free to reach out!
 
-- 📧 **Email:** your-email@example.com
-- 📱 **Phone:** +91 82040905
-- 💼 **LinkedIn:** [Your LinkedIn Profile](#)
+- 📧 **Email:** msjanakiram2005.com
+- 📱 **Phone:** +91 9182040905
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/janakiram-malli-reddy-gari/)
 - 🐙 **GitHub:** [@Janakiram-2005](https://github.com/Janakiram-2005)
 
 ---
