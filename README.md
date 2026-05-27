@@ -51,19 +51,13 @@ I'm a dedicated full-stack developer with a passion for building intelligent, ef
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janakiram-2005&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on exciting projects, sharing ideas, and learning from the community. Feel free to reach out!
 
-- 📧 **Email:** msjanakiram2005.com
+- 📧 **Email:** msjanakiram2005@gmail.com
 - 📱 **Phone:** +91 9182040905
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/janakiram-malli-reddy-gari/)
+- 💼 **LinkedIn:** [Janakiram Mallireddy Gari](https://www.linkedin.com/in/janakiram-malli-reddy-gari/)
 - 🐙 **GitHub:** [@Janakiram-2005](https://github.com/Janakiram-2005)
 
 ---
