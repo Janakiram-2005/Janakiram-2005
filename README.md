@@ -1,59 +1,62 @@
 # 👋 Hey there! I'm Janakiram
 
 <div align="center">
-  
-**Full-Stack Developer | Smart Project Builder | Tech Enthusiast**
 
-Passionate about creating efficient, scalable, and user-centric applications with clean code and modern design principles.
+**Full-Stack Developer | Problem Solver | Tech Enthusiast**
 
- [LinkedIn](https://www.linkedin.com/in/janakiram-malli-reddy-gari/) • [Email](mailto:msjanakiram2005.com)
+I build clean, efficient, and user-friendly web applications with modern technologies.
+
+[LinkedIn](https://www.linkedin.com/in/janakiram-malli-reddy-gari/) • [Email](mailto:msjanakiram2005@gmail.com)
 
 </div>
 
 ---
 
-## 💼 About Me
+## ✨ About Me
 
-I'm a dedicated full-stack developer with a passion for building intelligent, efficient, and user-friendly applications. I thrive on tackling complex problems, crafting clean UI designs, and staying ahead of the curve with the latest technologies. My approach combines technical excellence with a focus on real-world impact.
+I'm a passionate full-stack developer who enjoys turning ideas into useful digital experiences. I like working on frontend design, backend logic, and building products that are both practical and polished.
+
+- 🔭 Currently working on full-stack and UI-focused projects
+- 🌱 Currently learning modern frameworks, cloud deployment, and DevOps basics
+- 👯 Open to collaborating on interesting open-source and real-world projects
+- 💬 Ask me about web development, frontend design, and backend APIs
+- ⚡ I enjoy solving problems and building from scratch
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### Backend Development
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=rest&logoColor=white)
 
-### Databases & Storage
+### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Tools & Platforms
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🌱 Currently Exploring
+## 🚀 What I'm Focused On
 
-- 🏗️ Full-stack application architecture & design patterns
-- 🎨 Modern UI/UX principles and responsive design
-- ☁️ Cloud deployment & DevOps best practices
-- 📱 Progressive Web Apps (PWA)
-- 🔐 Web security & optimization techniques
+- Building better full-stack applications
+- Improving UI/UX and responsive design
+- Learning deployment, automation, and best practices
+- Creating impactful projects that solve real problems
 
 ---
 
 ## 🤝 Let's Connect
-
-I'm always interested in collaborating on exciting projects, sharing ideas, and learning from the community. Feel free to reach out!
 
 - 📧 **Email:** msjanakiram2005@gmail.com
 - 📱 **Phone:** +91 9182040905
@@ -64,6 +67,6 @@ I'm always interested in collaborating on exciting projects, sharing ideas, and 
 
 <div align="center">
 
-**✨ Thanks for visiting! Don't forget to star if you find something interesting! ⭐**
+**✨ Thanks for visiting!**
 
 </div>
